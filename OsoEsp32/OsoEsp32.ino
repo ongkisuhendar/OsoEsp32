@@ -13,7 +13,7 @@
 #include <OLEDDisplayUi.h>
 #include <MD_Parola.h>
 #include <MD_MAX72xx.h>
-#include "images.h"
+//#include "images.h"
 
 #define display_matrix    1
 #define ser               1
@@ -222,8 +222,8 @@ void setup() {
   ui.setTargetFPS(60);
 
   // Customize the active and inactive symbol
-  ui.setActiveSymbol(activeSymbol);
-  ui.setInactiveSymbol(inactiveSymbol);
+//  ui.setActiveSymbol(activeSymbol);
+//  ui.setInactiveSymbol(inactiveSymbol);
 
   // You can change this to
   // TOP, LEFT, BOTTOM, RIGHT
