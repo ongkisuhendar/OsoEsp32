@@ -1,7 +1,7 @@
 {
   "name": "OsoEsp32",
   "version": "0.0.1",
-  "keywords": "OSOEsp32, Arduino, ESP32, Ethernet, Oled, Relay, Buzer, w5500,OsoEsp32",
+  "keywords": "OSOEsp32, Arduino, ESP32, Ethernet, Oled, Relay, Buzer, w5500, OsoEsp32, oso-board-esp32",
   "description": "Arduino ESP32 Ethernet Oled Relay Buzer w5500 for OsoESP32",
   "homepage": "https://github.com/ongkisuhendar",
   "license": "MIT",
